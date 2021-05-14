@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haaomas
-- 👀 I’m interested in web an dmobil dev
+- 👀 I’m interested in web and mobil dev
 - 🌱 I’m currently learning HTML5 CSS and Flutter 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me.
