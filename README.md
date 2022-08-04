@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, World! 🌍
+I'm **Jimmy Barreau**. I'm a Back-End developer from Bordeaux currently living in Paris.
 
-<!--
-**Haaomas/Haaomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: jimmy-barreau](https://img.shields.io/badge/-Jimmy%20Barreau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmy-barreau/)](https://www.linkedin.com/in/jimmy-barreau/)
 
-Here are some ideas to get you started:
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%23F82772?style=flat-square&logo=python&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/-Flask-%23F82772?style=flat-square&logo=flask&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Prettier](https://img.shields.io/badge/-Prettier-%23F82772?style=flat-square&logo=prettier&logoColor=ffffff)
+![Github](https://img.shields.io/badge/-Github-%23FFCE5A?style=flat-square&logo=github&logoColor=ffffff)
+
+## 🔭 Currently working on 
+- [Python Scraping]()
+- [CS50X](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [CS50W](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+- [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python?delta=0)
+- [CodeWars Training](https://www.codewars.com/users/Haaomas)
+
+## 🌱 Currently learning
+- Flask
+- Django
+- Netlify
+- Docker
+
+🚧 **My Todoist stats:**
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+## :dart: Last words
+If you are not sure of what you are doing, never forget that success is not final, failure is not fatal, it is the courage to continue that counts ! Thanks for reading ! :pray:
