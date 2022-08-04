@@ -1,7 +1,7 @@
 # Hello, World! 🌍
 I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Paris.
 
-[![Linkedin: jimmy-barreau](https://img.shields.io/badge/-Jimmy%20Barreau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmy-barreau/)]([https://www.linkedin.com/in/jimmy-barreau-5a9730117](https://www.linkedin.com/in/jimmy-barreau-5a9730117/)
+[![Linkedin: jimmy-barreau](https://img.shields.io/badge/-Jimmy%20Barreau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmy-barreau/)]([https://www.linkedin.com/in/jimmy-barreau-5a9730117](https://www.linkedin.com/in/jimmy-barreau-5a9730117/))
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 🖥️
 
