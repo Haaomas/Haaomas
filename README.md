@@ -30,8 +30,8 @@ I'm **Jimmy Barreau**. I'm a Back-End developer from Bordeaux currently living i
 
 # Todoist Stats
 
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
+<!-- <!-- TODO-IST::START -->
+<!-- <!-- TODO-IST::END -->
 
 ## :dart: Last words
 If you are not sure of what you are doing, never forget that success is not final, failure is not fatal, it is the courage to continue that counts ! Thanks for reading ! :pray:
