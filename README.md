@@ -39,6 +39,7 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 
 ##
 ![Jimmy](https://github-readme-stats.vercel.app/api?username=Haaomas&&show_icons=true&theme=tokyonight&hide=prs,issues)
+##
 
 ## :dart: Last word
 If you are not sure of what you are doing, never forget that success is not final, failure is not fatal, it is the courage to continue that counts !
