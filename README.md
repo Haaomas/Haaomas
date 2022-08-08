@@ -44,4 +44,4 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 If you are not sure of what you are doing, never forget that success is not final, failure is not fatal, it is the courage to continue that counts !
 
 ##
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=apgyrlja2577045d6swxg1ccw&cover_image=true&theme=Novatorem&bar_color=628fdb)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=apgyrlja2577045d6swxg1ccw&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
