@@ -28,7 +28,7 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 - Netlify
 - Docker
 
-## Todoist Stats
+## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  10,186 Karma Points           
