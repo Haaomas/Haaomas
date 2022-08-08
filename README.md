@@ -3,7 +3,7 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 
 [![Linkedin: Jimmy Barreau](https://img.shields.io/badge/-Jimmy%20Barreau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmy-barreau-5a9730117/)](https://www.linkedin.com/in/jimmy-barreau-5a9730117/)
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 🖥️
+## 🖥️ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
