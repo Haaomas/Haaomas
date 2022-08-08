@@ -37,7 +37,11 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 ⏳  Longest streak is 20 days
 <!-- TODO-IST:END -->
 
-[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haaomas&&show_icons=true&theme=tokyonight&hide=prs,issues)
+<hr>
+
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haaomas&&show_icons=true&theme=tokyonight&hide=prs,issues)
+
+<hr>
 
 ## :dart: Last words
 If you are not sure of what you are doing, never forget that success is not final, failure is not fatal, it is the courage to continue that counts !
