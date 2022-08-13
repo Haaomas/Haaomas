@@ -16,7 +16,7 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 ![Github](https://img.shields.io/badge/-Github-%23FFCE5A?style=flat-square&logo=github&logoColor=ffffff)
 
 ## 🔭 Currently working on 
-- [Python Scraping]()
+- [Python API]()
 - [CS50X](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 - [CS50W](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
 - [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python?delta=0)
