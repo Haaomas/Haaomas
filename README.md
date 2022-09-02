@@ -31,7 +31,7 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 ## ✔ Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  10,381 Karma Points           
+🏆  10,391 Karma Points           
 🌸  Completed 3 tasks today           
 ✅  Completed 409 tasks so far           
 ⏳  Longest streak is 20 days
