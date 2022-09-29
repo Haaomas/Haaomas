@@ -32,8 +32,8 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 
 <!-- TODO-IST:START -->
 🏆  10,676 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 437 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 438 tasks so far           
 ⏳  Longest streak is 20 days
 <!-- TODO-IST:END -->
 
