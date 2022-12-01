@@ -10,7 +10,7 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-%23F82772?style=flat-square&logo=python&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/-Flask-%23F82772?style=flat-square&logo=flask&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-%23F82772?style=flat-square&logo=django&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F82772?style=flat-square&logo=prettier&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-%23FFCE5A?style=flat-square&logo=github&logoColor=ffffff)
