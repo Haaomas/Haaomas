@@ -40,6 +40,8 @@ I'm **Jimmy Barreau** a Back-End developer from Bordeaux currently living in Par
 <!-- End of The stats need to deploy it to my own vercel : https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance 
 ![Jimmy](https://github-readme-stats.vercel.app/api?username=Haaomas&&show_icons=true&theme=tokyonight&hide=prs,issues&bg_color=0d1117)
 ##
+Something went wrong file an issue at https://tiny.one/readme-stats
+Please add an env variable called PAT_1 with your github token in vercel 
 -->
 
 
